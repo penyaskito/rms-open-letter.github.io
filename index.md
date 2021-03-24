@@ -124,7 +124,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrew Cherry
 1. Andrew Dona-Couch
 1. Andrew J. Stephen
-1. Andrew McDermott
 1. Andrew Pinski (GCC contributor)
 1. Andrija Subotić
 1. Andy Isaacson (@radii, founding member of Noisebridge)
@@ -265,6 +264,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian Glombek (Fedora Project contributor)
 1. Christian Heimes (Python)
 1. Christian Hergert (GNOME)
+1. Christian 'penyaskito' López Espínola (Drupal contributor, ArgoUML contributor (inactive), OpenLayers contributor (inactive), co-translator of *ProducingOSS*)
 1. Christian Salamea
 1. Christian `shibumi` Rebischke (Arch Linux)
 1. Christina Dunbar-Hester (Author of *Hacking Diversity*)
@@ -792,7 +792,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthew P. Del Buono
 1. Matthew Peveler
 1. Matthew R. Green (NetBSD core, bozohttpd, ircII)
-1. Matthew Robertson
 1. Matthew Seal
 1. Matthew Stone
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
